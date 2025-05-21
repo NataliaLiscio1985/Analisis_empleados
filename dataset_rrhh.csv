@@ -1,0 +1,201 @@
+EmpleadoID,Nombre,Edad,Género,Área,Antigüedad,Evaluación_Desempeño,Satisfacción_Laboral,Balance_Vida_Trabajo,Horas_Extra,Estado_Civil,Salario,Renunció
+1,Lautaro Pérez,40,Femenino,Finanzas,5,1,4,3,1,Soltero/a,1432000.0,0
+2,Joaquín Rodríguez,22,Masculino,Ventas,3,1,1,1,0,Soltero/a,1428000.0,1
+3,Santiago López,26,Masculino,Finanzas,10,1,5,1,0,Casado/a,1406000.0,1
+4,Mateo Fernández,34,Femenino,Logística,30,1,5,1,0,Soltero/a,1426000.0,1
+5,Emma Martínez,47,Femenino,Ventas,29,5,5,4,1,En pareja,911000.0,0
+6,Joaquín López,50,Masculino,Administración,1,3,5,2,0,Soltero/a,856000.0,1
+7,Lucía Rodríguez,30,Masculino,Marketing,10,2,2,4,0,En pareja,689000.0,0
+8,Lautaro Martínez,44,Femenino,Logística,2,2,5,5,1,En pareja,1002000.0,0
+9,Valentina González,34,Masculino,Marketing,8,1,3,5,1,Soltero/a,1371000.0,0
+10,Lautaro López,43,Femenino,Finanzas,2,1,4,1,0,Soltero/a,1209000.0,0
+11,Camila Díaz,54,Masculino,IT,6,1,3,2,0,En pareja,1510000.0,1
+12,Catalina López,57,Femenino,Marketing,7,4,3,5,0,Casado/a,1596000.0,0
+13,Juan Gómez,28,Femenino,Atención al Cliente,22,1,5,4,0,En pareja,743000.0,1
+14,Mía Rodríguez,39,Femenino,IT,27,1,2,3,1,En pareja,910000.0,0
+15,Joaquín Sánchez,28,Femenino,IT,23,3,4,3,1,Divorciado/a,1666000.0,0
+16,Mateo Rodríguez,41,Femenino,RRHH,19,5,5,1,1,Divorciado/a,763000.0,1
+17,Facundo Pérez,59,Masculino,Atención al Cliente,8,4,2,1,1,Divorciado/a,687000.0,1
+18,Joaquín Rodríguez,34,Femenino,Marketing,7,2,4,3,1,Divorciado/a,1437000.0,1
+19,Santiago Díaz,37,Masculino,Finanzas,1,1,3,5,1,Divorciado/a,1361000.0,0
+20,Catalina Romero,51,Masculino,Atención al Cliente,12,2,4,5,1,En pareja,1363000.0,0
+21,Thiago Gómez,31,Femenino,Ventas,16,3,3,1,0,Soltero/a,632000.0,0
+22,Franco Pérez,32,Femenino,Administración,21,4,2,5,1,Casado/a,828000.0,0
+23,Lucía Romero,51,Femenino,Finanzas,13,2,3,5,0,Casado/a,1357000.0,0
+24,Emma Martínez,27,Masculino,Logística,15,2,3,2,1,Soltero/a,1747000.0,0
+25,Pedro Pérez,40,Masculino,RRHH,10,3,1,5,1,Soltero/a,1256000.0,1
+26,Martina Martínez,31,Masculino,Logística,3,3,2,5,0,Soltero/a,1262000.0,1
+27,Catalina Fernández,33,Masculino,Ventas,21,5,3,4,0,Divorciado/a,1356000.0,0
+28,Julieta Romero,43,Femenino,Administración,21,4,5,5,1,Soltero/a,1169000.0,0
+29,Joaquín Rodríguez,55,Femenino,Logística,23,2,1,2,0,Divorciado/a,1738000.0,0
+30,Lautaro Fernández,49,Masculino,IT,18,4,1,5,0,Divorciado/a,1641000.0,1
+31,Catalina Pérez,40,Masculino,Finanzas,6,1,2,3,0,Casado/a,1422000.0,0
+32,Pedro Martínez,29,Femenino,Ventas,23,5,3,2,0,Casado/a,1790000.0,0
+33,Juan López,33,Masculino,Marketing,14,2,1,4,0,Divorciado/a,927000.0,0
+34,Mateo Romero,33,Masculino,Ventas,25,3,2,2,0,Divorciado/a,1652000.0,0
+35,Benjamín Díaz,55,Masculino,Ventas,24,2,3,4,0,En pareja,1014000.0,1
+36,Sofía López,59,Femenino,IT,14,4,4,4,1,Divorciado/a,937000.0,0
+37,Joaquín Fernández,25,Masculino,Administración,13,4,4,4,1,En pareja,1346000.0,1
+38,Isabella Gómez,55,Femenino,Atención al Cliente,18,4,2,3,0,Casado/a,1337000.0,0
+39,Valentina Gómez,38,Masculino,Atención al Cliente,21,4,1,3,1,En pareja,1110000.0,1
+40,Pedro Fernández,58,Femenino,RRHH,23,1,4,5,0,Soltero/a,1214000.0,0
+41,Juan Sánchez,23,Masculino,Marketing,21,1,2,5,0,Divorciado/a,1188000.0,0
+42,Martina Fernández,38,Femenino,IT,19,3,1,2,1,Casado/a,1756000.0,1
+43,Julieta López,41,Masculino,Logística,9,2,3,4,0,Casado/a,1020000.0,0
+44,Lucía Rodríguez,22,Femenino,IT,28,3,4,1,1,Divorciado/a,1552000.0,0
+45,Santiago Gómez,47,Femenino,Finanzas,17,1,3,3,1,Soltero/a,1343000.0,0
+46,Santiago Martínez,41,Femenino,Administración,8,3,1,5,1,Soltero/a,605000.0,1
+47,Franco Díaz,33,Femenino,Atención al Cliente,16,3,2,4,1,Casado/a,925000.0,1
+48,Thiago Sánchez,56,Masculino,Atención al Cliente,21,3,4,4,0,Divorciado/a,1697000.0,1
+49,Catalina Rodríguez,47,Masculino,Finanzas,20,5,1,4,1,Divorciado/a,1749000.0,0
+50,Julieta Sánchez,58,Femenino,Ventas,15,3,4,1,1,En pareja,1638000.0,0
+51,Santiago Fernández,31,Femenino,Ventas,15,3,4,4,0,Divorciado/a,633000.0,1
+52,Thiago López,40,Femenino,Administración,23,4,2,5,1,Divorciado/a,1032000.0,0
+53,Lucía López,54,Femenino,RRHH,28,5,3,4,1,Soltero/a,1790000.0,0
+54,Mateo Sánchez,56,Femenino,Finanzas,20,1,4,3,0,Divorciado/a,1483000.0,0
+55,Lucía Martínez,43,Masculino,Finanzas,2,3,5,5,1,En pareja,1538000.0,1
+56,Benjamín Díaz,43,Femenino,Finanzas,4,4,1,3,1,En pareja,1224000.0,1
+57,Martina Gómez,55,Femenino,Administración,25,2,2,4,0,Casado/a,835000.0,1
+58,Lucía Fernández,55,Femenino,RRHH,1,5,3,5,1,Divorciado/a,1542000.0,0
+59,Pedro Pérez,36,Femenino,Logística,1,2,3,1,1,En pareja,1507000.0,1
+60,Benjamín Fernández,59,Masculino,Marketing,18,2,4,2,0,Casado/a,1469000.0,1
+61,Juan Martínez,51,Femenino,Atención al Cliente,27,4,3,2,1,Soltero/a,970000.0,1
+62,Thiago González,59,Femenino,RRHH,4,5,3,3,1,En pareja,989000.0,1
+63,Pedro Gómez,39,Masculino,Administración,4,1,2,3,1,Divorciado/a,1586000.0,1
+64,Isabella Sánchez,39,Femenino,Ventas,3,5,2,3,1,Soltero/a,1590000.0,0
+65,Pedro Fernández,32,Masculino,IT,7,1,2,1,0,En pareja,1716000.0,1
+66,Mía López,42,Femenino,Ventas,24,3,1,5,1,Divorciado/a,1633000.0,0
+67,Julieta Sánchez,52,Femenino,Atención al Cliente,1,1,1,1,0,Casado/a,1232000.0,1
+68,Lucía Martínez,52,Masculino,Marketing,22,5,4,4,0,Divorciado/a,955000.0,1
+69,Sofía López,45,Masculino,Ventas,16,2,2,5,1,Soltero/a,1179000.0,0
+70,Juan Romero,58,Femenino,Atención al Cliente,19,1,3,1,0,Casado/a,1609000.0,1
+71,Mía Fernández,32,Femenino,Atención al Cliente,18,1,5,5,1,En pareja,1430000.0,1
+72,Juan Romero,30,Masculino,Marketing,25,1,1,3,0,Divorciado/a,1724000.0,0
+73,Julieta Gómez,58,Femenino,Logística,16,5,4,5,0,En pareja,969000.0,1
+74,Pedro Romero,28,Masculino,RRHH,7,2,3,5,1,En pareja,719000.0,1
+75,Martina Sánchez,58,Masculino,Administración,25,5,2,5,0,Divorciado/a,1765000.0,0
+76,Lautaro Pérez,42,Femenino,Atención al Cliente,27,4,5,2,0,Casado/a,1325000.0,0
+77,Camila López,37,Masculino,Logística,27,4,3,5,1,En pareja,1715000.0,0
+78,Benjamín Martínez,37,Femenino,IT,12,5,5,5,1,Soltero/a,1204000.0,0
+79,Mateo Gómez,57,Femenino,Finanzas,23,3,3,1,1,Divorciado/a,989000.0,1
+80,Juan Pérez,42,Masculino,Logística,17,3,2,4,0,Divorciado/a,663000.0,0
+81,Martina Martínez,49,Femenino,Administración,20,3,3,3,0,Divorciado/a,946000.0,1
+82,Juan López,57,Femenino,Logística,17,1,1,5,0,Casado/a,1170000.0,0
+83,Julieta Pérez,51,Femenino,Logística,13,4,1,3,1,Soltero/a,1767000.0,1
+84,Sofía Díaz,29,Femenino,Atención al Cliente,22,5,4,4,0,Casado/a,1105000.0,1
+85,Julieta Romero,53,Femenino,Logística,3,4,3,4,1,En pareja,646000.0,0
+86,Thiago Rodríguez,42,Masculino,Atención al Cliente,15,3,5,2,0,En pareja,1569000.0,1
+87,Mía Martínez,24,Femenino,Logística,21,3,2,4,1,En pareja,705000.0,1
+88,Martina Martínez,60,Femenino,Administración,1,5,4,4,1,Casado/a,1392000.0,0
+89,Mía Pérez,39,Femenino,Atención al Cliente,0,4,3,5,1,Divorciado/a,907000.0,1
+90,Facundo Díaz,49,Masculino,Marketing,6,1,3,3,0,En pareja,1641000.0,0
+91,Santiago Díaz,33,Femenino,Marketing,18,4,5,5,0,Soltero/a,778000.0,1
+92,Facundo Pérez,28,Masculino,RRHH,24,2,3,5,0,Soltero/a,802000.0,0
+93,Santiago Pérez,42,Femenino,Finanzas,6,1,1,1,0,Soltero/a,1746000.0,1
+94,Sofía López,29,Masculino,Marketing,26,3,1,2,1,Divorciado/a,752000.0,1
+95,Franco Gómez,41,Femenino,IT,23,2,1,4,1,Casado/a,1736000.0,1
+96,Thiago Martínez,59,Masculino,Atención al Cliente,7,3,1,4,0,En pareja,1551000.0,0
+97,Julieta González,22,Masculino,Logística,3,2,4,3,1,Soltero/a,1437000.0,1
+98,Lucía González,34,Masculino,Marketing,1,4,5,4,0,Divorciado/a,1186000.0,1
+99,Martina Gómez,37,Masculino,Finanzas,8,4,4,2,1,Casado/a,805000.0,1
+100,Julieta Martínez,42,Femenino,Logística,18,1,4,3,0,Casado/a,934000.0,1
+101,Sofía González,56,Masculino,Ventas,7,4,4,2,0,Soltero/a,886000.0,1
+102,Martina Romero,49,Masculino,Finanzas,11,2,3,1,0,Divorciado/a,1333000.0,0
+103,Sofía Fernández,28,Masculino,IT,3,3,1,3,1,Casado/a,1720000.0,0
+104,Facundo Romero,29,Femenino,Ventas,17,3,5,4,1,Divorciado/a,1498000.0,0
+105,Isabella Díaz,49,Masculino,Atención al Cliente,8,5,4,1,0,Casado/a,1550000.0,0
+106,Mateo Martínez,46,Masculino,Administración,0,4,5,4,0,Casado/a,1504000.0,1
+107,Pedro Díaz,37,Femenino,Finanzas,25,3,2,3,1,En pareja,693000.0,0
+108,Isabella Romero,55,Femenino,Administración,6,4,5,4,0,En pareja,1098000.0,1
+109,Isabella Rodríguez,59,Femenino,RRHH,11,2,2,1,1,Divorciado/a,1276000.0,0
+110,Joaquín González,57,Femenino,Finanzas,20,3,1,5,1,Soltero/a,764000.0,1
+111,Mateo Pérez,42,Masculino,Marketing,24,5,2,2,0,Casado/a,1762000.0,1
+112,Pedro Díaz,51,Femenino,Marketing,3,5,2,2,0,Casado/a,1163000.0,1
+113,Mateo Martínez,26,Masculino,IT,14,4,1,5,0,En pareja,1606000.0,1
+114,Julieta Sánchez,41,Masculino,Marketing,22,5,1,5,0,En pareja,884000.0,1
+115,Santiago Díaz,55,Masculino,Logística,23,2,1,1,0,Divorciado/a,1505000.0,1
+116,Pedro Rodríguez,57,Femenino,Ventas,5,3,5,3,1,Casado/a,1403000.0,1
+117,Facundo Díaz,35,Masculino,Finanzas,17,5,5,1,1,Soltero/a,837000.0,1
+118,Joaquín González,27,Masculino,Logística,6,2,5,2,1,Divorciado/a,831000.0,1
+119,Juan López,35,Masculino,Ventas,3,4,2,2,1,Divorciado/a,1030000.0,1
+120,Mateo Díaz,46,Femenino,Marketing,21,5,4,3,1,Soltero/a,1104000.0,0
+121,Facundo Fernández,31,Femenino,Atención al Cliente,19,2,1,5,0,En pareja,889000.0,0
+122,Catalina Martínez,55,Femenino,IT,28,3,4,5,1,Casado/a,765000.0,1
+123,Martina Pérez,49,Femenino,Logística,5,3,5,2,0,Casado/a,1180000.0,1
+124,Catalina González,23,Masculino,Finanzas,1,1,3,5,0,Casado/a,1485000.0,0
+125,Martina Díaz,32,Masculino,Marketing,16,5,4,1,1,Casado/a,1630000.0,0
+126,Sofía Díaz,30,Masculino,Marketing,15,1,3,1,0,Casado/a,1505000.0,0
+127,Mateo Pérez,54,Femenino,Administración,18,4,2,2,1,Divorciado/a,1173000.0,1
+128,Valentina González,27,Femenino,Ventas,19,3,3,5,1,En pareja,1766000.0,0
+129,Mateo Sánchez,39,Femenino,Marketing,13,5,4,2,1,Casado/a,1554000.0,1
+130,Isabella Sánchez,25,Masculino,RRHH,9,1,2,5,1,Soltero/a,1688000.0,1
+131,Pedro López,48,Masculino,Logística,18,4,1,5,1,Soltero/a,807000.0,1
+132,Isabella Romero,39,Masculino,Finanzas,18,1,1,1,0,Casado/a,827000.0,1
+133,Emma González,30,Masculino,Ventas,14,5,4,5,0,Soltero/a,611000.0,1
+134,Santiago Martínez,45,Femenino,Finanzas,11,5,4,2,1,Casado/a,1098000.0,0
+135,Santiago Pérez,47,Femenino,Logística,15,1,5,2,1,Casado/a,897000.0,1
+136,Santiago Gómez,32,Femenino,Atención al Cliente,24,1,2,3,0,En pareja,1651000.0,0
+137,Emma Rodríguez,22,Femenino,Marketing,8,2,1,1,1,Divorciado/a,1116000.0,1
+138,Mía Gómez,49,Masculino,RRHH,11,5,5,4,0,Casado/a,634000.0,1
+139,Lautaro Martínez,34,Masculino,Ventas,2,2,3,5,1,Soltero/a,1354000.0,0
+140,Joaquín Fernández,56,Femenino,Atención al Cliente,20,2,4,4,1,Divorciado/a,691000.0,1
+141,Facundo Gómez,31,Femenino,Finanzas,29,5,4,5,1,Soltero/a,1510000.0,0
+142,Catalina Martínez,51,Masculino,Logística,7,5,4,3,0,Casado/a,1470000.0,1
+143,Lautaro Martínez,28,Femenino,Finanzas,29,3,1,2,0,Soltero/a,1548000.0,1
+144,Santiago Sánchez,59,Masculino,Ventas,17,1,4,3,1,En pareja,1663000.0,1
+145,Mateo López,37,Femenino,IT,10,4,5,2,0,Divorciado/a,1196000.0,1
+146,Juan López,47,Masculino,Finanzas,17,5,2,5,1,Divorciado/a,1796000.0,0
+147,Emma Martínez,25,Femenino,IT,0,5,1,1,0,En pareja,1492000.0,0
+148,Mateo González,46,Masculino,Logística,17,4,3,2,1,En pareja,993000.0,1
+149,Thiago López,29,Femenino,Logística,0,3,4,4,0,En pareja,1441000.0,0
+150,Julieta Martínez,34,Masculino,Atención al Cliente,24,3,2,3,1,Divorciado/a,1226000.0,0
+151,Sofía González,33,Masculino,Administración,24,3,5,4,0,Casado/a,1673000.0,1
+152,Valentina González,44,Masculino,Atención al Cliente,26,3,5,4,0,Divorciado/a,1247000.0,0
+153,Franco González,51,Masculino,Finanzas,0,3,5,5,0,Casado/a,936000.0,1
+154,Facundo Romero,39,Femenino,Administración,23,1,2,2,1,Soltero/a,894000.0,0
+155,Santiago Fernández,27,Masculino,Atención al Cliente,18,4,2,2,0,Divorciado/a,1303000.0,1
+156,Santiago Martínez,47,Masculino,Administración,2,5,2,4,1,Casado/a,894000.0,1
+157,Mateo Martínez,59,Femenino,Ventas,24,5,3,2,1,Casado/a,1502000.0,1
+158,Benjamín Romero,50,Femenino,Logística,12,5,2,2,0,En pareja,981000.0,0
+159,Martina López,33,Femenino,RRHH,29,5,4,3,1,En pareja,1507000.0,0
+160,Thiago Sánchez,44,Femenino,Marketing,14,2,1,2,1,En pareja,1355000.0,0
+161,Franco Gómez,23,Masculino,Administración,6,1,5,1,0,Divorciado/a,641000.0,1
+162,Joaquín Rodríguez,25,Masculino,Logística,28,5,2,4,1,En pareja,1772000.0,0
+163,Santiago Romero,37,Femenino,RRHH,12,3,1,1,0,Divorciado/a,1010000.0,1
+164,Juan González,27,Masculino,RRHH,10,2,4,4,1,Divorciado/a,664000.0,0
+165,Thiago Gómez,45,Femenino,Logística,28,1,3,1,1,Casado/a,1692000.0,0
+166,Pedro Gómez,50,Masculino,IT,23,2,4,1,1,En pareja,1467000.0,1
+167,Pedro Díaz,55,Masculino,Ventas,4,4,1,2,0,En pareja,1140000.0,1
+168,Catalina Martínez,25,Femenino,Logística,8,4,1,3,1,En pareja,1316000.0,0
+169,Mía Díaz,55,Masculino,Ventas,10,1,3,1,1,Divorciado/a,993000.0,0
+170,Joaquín Sánchez,41,Femenino,Logística,9,4,1,4,1,Casado/a,1658000.0,0
+171,Mateo Martínez,46,Femenino,Logística,3,1,2,2,0,En pareja,1081000.0,0
+172,Sofía Gómez,34,Femenino,Logística,21,4,3,1,0,Soltero/a,1506000.0,1
+173,Santiago Romero,42,Masculino,IT,12,3,3,4,1,Casado/a,1714000.0,1
+174,Julieta Fernández,25,Femenino,Atención al Cliente,7,5,4,5,0,Casado/a,1517000.0,0
+175,Facundo Romero,38,Masculino,Administración,20,3,1,4,1,En pareja,1696000.0,1
+176,Valentina López,33,Masculino,Marketing,17,3,4,4,0,En pareja,1323000.0,0
+177,Facundo Pérez,45,Masculino,Logística,6,1,5,3,1,Soltero/a,1017000.0,1
+178,Emma Gómez,58,Femenino,Logística,17,5,2,3,0,Divorciado/a,627000.0,1
+179,Santiago Pérez,51,Femenino,Atención al Cliente,13,5,1,4,1,Soltero/a,874000.0,1
+180,Mía Pérez,26,Masculino,Ventas,24,5,5,4,1,Casado/a,849000.0,0
+181,Camila Díaz,45,Femenino,Ventas,6,5,2,2,0,En pareja,1500000.0,1
+182,Mía Pérez,46,Masculino,Logística,7,3,3,3,1,En pareja,1638000.0,1
+183,Pedro Díaz,32,Masculino,Finanzas,19,2,2,3,0,Casado/a,1450000.0,0
+184,Mía Díaz,24,Masculino,Logística,8,4,4,4,0,Casado/a,1207000.0,0
+185,Mateo Sánchez,60,Femenino,Finanzas,22,1,1,5,0,Soltero/a,1733000.0,1
+186,Juan Martínez,54,Masculino,Administración,2,1,1,2,1,Soltero/a,1443000.0,0
+187,Valentina Gómez,26,Femenino,Ventas,27,3,1,1,0,Casado/a,904000.0,1
+188,Franco Fernández,46,Masculino,Finanzas,9,3,5,2,0,Soltero/a,1572000.0,1
+189,Mía Sánchez,29,Femenino,Finanzas,9,4,5,2,0,En pareja,1182000.0,0
+190,Lucía López,53,Femenino,Finanzas,24,5,3,4,1,En pareja,1747000.0,1
+191,Valentina González,50,Femenino,Atención al Cliente,10,2,3,4,0,Divorciado/a,776000.0,0
+192,Isabella Romero,46,Femenino,Logística,10,1,5,4,1,Soltero/a,1662000.0,0
+193,Thiago Díaz,33,Masculino,Atención al Cliente,12,2,5,3,1,En pareja,1729000.0,0
+194,Franco Romero,43,Masculino,RRHH,20,4,3,1,1,Divorciado/a,780000.0,1
+195,Facundo Sánchez,47,Masculino,Atención al Cliente,7,5,4,2,0,En pareja,1706000.0,1
+196,Catalina González,49,Masculino,Administración,19,4,4,4,0,Soltero/a,1655000.0,1
+197,Lautaro López,48,Femenino,Logística,28,3,5,3,1,En pareja,753000.0,0
+198,Catalina González,54,Masculino,IT,27,3,1,1,0,En pareja,1646000.0,1
+199,Isabella Romero,56,Femenino,IT,8,5,1,2,1,Casado/a,946000.0,0
+200,Isabella Díaz,54,Masculino,Marketing,2,1,5,1,1,En pareja,978000.0,1
